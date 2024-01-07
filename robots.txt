@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+crawl-delay:10
+
+Sitemap: http://slot-depo-via-gopay-77.lightinject.net/sitemap.xml
